@@ -13,8 +13,8 @@ BANNER='''\033[1;32m
  |_|  |_/_/    \_\_|  \_\_____/|_|  |_/_/    \_\______|
 '''
 command_list='''
-[1] ENCRIPTED FILE BY MARSHAL PRIMIUM
-[2] ENCRIPTED FILE BY MARSHAL  
+ [1] ENCRIPTED FILE BY MARSHAL PRIMIUM
+ [2] ENCRIPTED FILE BY MARSHAL  
 '''
 comm ='''\033[0;31m
 LOGIN ERROR ....
@@ -23,7 +23,7 @@ while True:
     clear_screen()
     print(BANNER)
     print(command_list)
-    CHOICE = input('\033[1;34mENTER YOUR CHOICE : ')
+    CHOICE = input('\033[1;34m [🥳]ENTER YOUR CHOICE : ')
     if CHOICE =='1':
         os.system('python marshal_admin.py')
     elif CHOICE=='2':
