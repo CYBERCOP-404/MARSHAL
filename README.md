@@ -14,23 +14,6 @@
    </p>
    
 </br>
-
-<h2 align="left">What is Python Encrypt ? > </h2><br>
-
-> Python Encrypt is a tool that's help you to secure your important script. You can encrypt your script by this tool. And no one can stolen your script.
-
-<br>
-<h4 align="left">TESTED ON > </h4><br>
-
-* Kali Linux
-* Termux
-* Mac os
-* Ubuntu
-* Perrot Sec OS
-
-## Contributing
-Feel Free To Clone This Project. For Major Changes, Please Open An Issue First To Discuss What You Would Like To Change Or Add, Thank You!!.
-
 <h2 align="center">INSTALL TOOL ON TERMUX > </h2><br>
  
 ```python
