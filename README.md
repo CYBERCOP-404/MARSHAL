@@ -55,3 +55,5 @@ If you notice issues while installing this tool or running this tool kindly mail
 # Give A Star ⭐
 
 > You can also give this repository a star to show more people and they can use this repository.
+
+![wave](https://user-images.githubusercontent.com/65462564/225171686-93c2fd4b-ced4-4602-85e4-13deacf4af62.svg)
